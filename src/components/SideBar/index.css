@@ -1,0 +1,11 @@
+.sidebar-container {
+  width: 20%;
+  border-right: 1px solid black;
+  padding: 20px;
+  background-color: black;
+  color: white;
+  height: 100vh;
+}
+.list-item {
+  list-style-type: none;
+}

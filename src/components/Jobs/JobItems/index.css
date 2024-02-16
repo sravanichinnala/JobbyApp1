@@ -1,0 +1,9 @@
+.search-container {
+  width: 70%;
+  height: 5%;
+  padding: 10px;
+}
+.jobs-list-container {
+  height: 95vh;
+  overflow-y: scroll;
+}
